@@ -1,4 +1,4 @@
-import { Box, Container, Stack, Typography } from '@mui/material'
+import { Container, Stack, Typography } from '@mui/material'
 import Image from 'next/image'
 
 export default async function Organizador({ params }: { params: Promise<{ Organizador: string }> }) {
