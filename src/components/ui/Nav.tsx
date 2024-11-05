@@ -14,6 +14,7 @@ export default function ButtonAppBar() {
                         component='div'
                         color='inherit'
                         align='center'
+                        fontSize={18}
                         sx={{ flexGrow: 1 }}
                         // className={poppins.className}
                     >

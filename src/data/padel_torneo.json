@@ -1,0 +1,57 @@
+{
+    "id": "1132721149",
+    "code": "padel_torneo",
+    "name": "Padel Torneos",
+    "description": "Padel Torneo",
+    "direccion": {
+        "calle": "Calle Falta 123",
+        "numero": "123",
+        "localidad": "CABA",
+        "provincia": "CABA",
+        "cp": "1427"
+    },
+    "telefono": "123456789",
+    "instagram": "padel_torneo",
+    "torneos": [
+        {
+            "id": "1",
+            "categoria": "C8",
+            "fecha": "Mie 19/11",
+            "hora": "19:00",
+            "lugar": "Calle Falta 123",
+            "cupo": 16,
+            "anotados": 16,
+            "cancha": 1
+        },
+        {
+            "id": "2",
+            "categoria": "C7",
+            "fecha": "Mie 19/11",
+            "hora": "19:00",
+            "lugar": "Calle Falta 123",
+            "cupo": 16,
+            "anotados": 4,
+            "cancha": 2
+        },
+        {
+            "id": "3",
+            "categoria": "C6",
+            "fecha": "Mie 19/11",
+            "hora": "19:00",
+            "lugar": "Calle Falta 123",
+            "cupo": 16,
+            "anotados": 5,
+            "cancha": 3
+        },
+        {
+            "id": "4",
+            "categoria": "C5",
+            "fecha": "Mie 19/11",
+            "hora": "19:00",
+            "lugar": "Calle Falta 123",
+            "cupo": 16,
+            "anotados": 4,
+            "cancha": 16
+        }
+    ]
+}
